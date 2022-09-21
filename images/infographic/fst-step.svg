@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.5 289.4" stroke-linecap="round" stroke-linejoin="round" style="font-family: 'K2D', sans-serif;">
+  <path d="M103.8,282.5V170.3h79.9V283.1C151.9,290.2,134.2,290.2,103.8,282.5Z" fill="none" stroke="#1b2645"/>
+  <g>
+    <line x1="104" y1="215.7" x2="173" y2="285.8" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="103.4" y1="227.7" x2="162.3" y2="288" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="104" y1="239.9" x2="151.6" y2="288" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="104" y1="252.7" x2="139.1" y2="288.7" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="103.4" y1="264.7" x2="125.5" y2="287.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="104" y1="276.9" x2="110.8" y2="284" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="162.4" y1="162.1" x2="184.4" y2="186.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="151.6" y1="165" x2="183.8" y2="198.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="139.7" y1="163.6" x2="183.6" y2="209.6" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="129.4" y1="166.1" x2="184.4" y2="223.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="121.4" y1="170.8" x2="183.8" y2="235.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="120.4" y1="181.3" x2="183.6" y2="246.7" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="104" y1="175.7" x2="184.4" y2="258.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="103.4" y1="187.7" x2="183.8" y2="270.2" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+    <line x1="104" y1="199.9" x2="184.4" y2="282.4" fill="none" stroke="#000" stroke-dasharray="0 2"/>
+  </g>
+  <g>
+    <line x1="261" y1="106.1" x2="424.5" y2="106.1" fill="none" stroke="#1b2645" stroke-width="2"/>
+    <polyline points="417.7 99.3 424.5 106.1 417.7 112.9" fill="none" stroke="#1b2645" stroke-width="2"/>
+    <text transform="translate(340.1 94.7)" font-size="20.49" fill="#1b2645">CO</text>
+    <text transform="translate(370.8 94.7)" font-size="20.49" fill="#1b2645">₂</text>
+    <text transform="translate(327.5 127.2)" font-size="17.56" fill="#1b2645">Process</text>
+    <text transform="translate(319.8 145.7)" font-size="17.56" fill="#1b2645">Emissions</text>
+  </g>
+  <g>
+    <circle cx="211" cy="106.1" r="4.4" fill="#ef8d25"/>
+    <circle cx="229.5" cy="106.1" r="4.4" fill="#ef8d25"/>
+    <circle cx="248.1" cy="106.1" r="4.4" fill="#ef8d25"/>
+  </g>
+  <ellipse cx="143.8" cy="170.3" rx="40" ry="17"/>
+  <ellipse cx="143.6" cy="152" rx="15.7" ry="5.8" fill="#000001"/>
+  <path d="M197,97.5H140.6a4,4,0,0,0-4,4v65.2h15.1V116.5a3.6,3.6,0,0,1,3.6-3.6H197V97.5Z" fill="#ef8d25" stroke="#000"/>
+  <g>
+    <path d="M127.8,159.7H79.5V134.2H93.4l16.5-24.6H34.2l20.2,24.9H65v38.8h62.8Z" fill="#00a0bd" stroke="#000"/>
+    <path d="M143.6,157.8c-8.7,0-15.7-2.6-15.7-5.8V287.5h30.8V153.8C156.6,156.1,150.6,157.8,143.6,157.8Z" fill="#00a0bd" stroke="#000"/>
+  </g>
+  <g>
+    <path d="M210.7,70.3c1.6-2.5,3.7-5,6.2-5,4,0,6.8,5.9,10.6,5.9s5.3-6.2,9.6-6.2,6.5,3.1,7.2,5.9" fill="none" stroke="#f18d25" stroke-linecap="round" stroke-width="3.11"/>
+    <path d="M210.7,89c1.6-2.5,3.7-5,6.2-5,4,0,6.8,5.9,10.6,5.9s5.3-6.2,9.6-6.2,6.5,3.1,7.2,5.9" fill="none" stroke="#f18d25" stroke-linecap="round" stroke-width="3.11"/>
+    <path d="M210.7,79.6c1.6-2.5,3.7-5,6.2-5,4,0,6.8,5.9,10.6,5.9s5.3-6.2,9.6-6.2,6.5,3.1,7.2,5.9" fill="none" stroke="#f18d25" stroke-linecap="round" stroke-width="3.11"/>
+  </g>
+  <g>
+    <path d="M138.9,174.6c-5.7,0-5.7,8.8,0,8.8S144.6,174.6,138.9,174.6Z"/>
+    <path d="M94,162.4c-5.7,0-5.7,8.8,0,8.8S99.7,162.4,94,162.4Z"/>
+    <path d="M138.9,212.4c-5.7,0-5.7,8.8,0,8.8S144.6,212.4,138.9,212.4Z"/>
+  </g>
+  <g>
+    <circle cx="144.3" cy="107.9" r="4.4" fill="#fff"/>
+    <circle cx="183.5" cy="105.5" r="4.4" fill="#fff"/>
+    <path d="M152.8,240.8c0-5.7-8.8-5.7-8.8,0S152.8,246.5,152.8,240.8Z" fill="#fff"/>
+    <path d="M153.8,200.8c0-5.7-8.8-5.7-8.8,0S153.8,206.5,153.8,200.8Z" fill="#fff"/>
+  </g>
+  <g>
+    <g>
+      <path d="M122.2,170.6l3.8-3.8-3.8-3.8,3.8,3.8Z" fill="#00a0bd" stroke="#000"/>
+      <line x1="109.4" y1="166.7" x2="126" y2="166.7" fill="none" stroke="#000"/>
+    </g>
+    <g>
+      <path d="M153.5,172.9l-3.8-3.8-3.8,3.8,3.8-3.8Z" fill="#00a0bd" stroke="#000"/>
+      <line x1="149.6" y1="193.8" x2="149.6" y2="169.1" fill="none" stroke="#000"/>
+    </g>
+    <g>
+      <path d="M153.5,257.9l-3.8-3.8-3.8,3.8,3.8-3.8Z" fill="#00a0bd" stroke="#000"/>
+      <line x1="149.6" y1="278.8" x2="149.6" y2="254.1" fill="none" stroke="#000"/>
+    </g>
+  </g>
+  <g>
+    <path d="M72.9,129.1c-5.7,0-5.7,8.8,0,8.8S78.6,129.1,72.9,129.1Z"/>
+    <path d="M64.6,119.4c-5.7,0-5.7,8.8,0,8.8S70.3,119.4,64.6,119.4Z"/>
+    <path d="M54.9,108.4c-5.7,0-5.6,8.8,0,8.8S60.6,108.4,54.9,108.4Z"/>
+    <path d="M71.3,117.2c5.7,0,5.7-8.8,0-8.8S65.6,117.2,71.3,117.2Z"/>
+    <path d="M98.5,109.6c-.4-5.9-9.6-4.8-8.7,1S98.8,115,98.5,109.6Z"/>
+    <path d="M84.4,116.8c-5.7,0-5.7,8.8,0,8.8S90.1,116.8,84.4,116.8Z"/>
+    <path d="M84.4,98.2c0-5.7-8.8-5.7-8.8,0S84.4,103.9,84.4,98.2Z"/>
+    <path d="M75.4,89.2c5.7,0,5.7-8.8,0-8.8S69.7,89.2,75.4,89.2Z"/>
+    <path d="M92.9,94.6c5.7,0,5.7-8.8,0-8.8S87.2,94.6,92.9,94.6Z"/>
+    <path d="M58,90.1c5.7,0,5.7-8.8,0-8.8S52.3,90.1,58,90.1Z"/>
+    <path d="M67.2,99.2c0-5.7-8.8-5.7-8.8,0S67.2,104.9,67.2,99.2Z"/>
+    <path d="M45.5,95.4c-5.7,0-5.7,8.8,0,8.8S51.2,95.4,45.5,95.4Z"/>
+  </g>
+  <circle cx="144.7" cy="144.7" r="143.7" fill="none" stroke="#1b2645" stroke-width="2"/>
+</svg>
